@@ -1,4 +1,4 @@
-# 优惠券后台
+# 优惠券小程序-管理后台
 ## 1.介绍
 优惠券小程序控制后台。目前后台提供的功能: 
 - 首页Banner管理 支持跳转其他小程序、跳转内部其他页面、H5页面(个人小程序不支持)
@@ -40,4 +40,23 @@
 
 > 使用 axios ，请求地址默认带有`/api`，转发到后端会自动去除`/api`。
 > 配置信息可见 main.js
+
+## 3.关联项目
+- [小程序](https://github.com/lxr9161/os-coupon-miniprogram)
+- [后端接口](https://github.com/lxr9161/os-coupon-api)
+
+-----
+开源版可能存在一些问题，欢迎吐槽。也欢迎大家做提出一些建议或意见。
+
+技术交流可以扫码添加我个人的微信，也可以扫码进微信群
+- 我个人的微信
+<div>
+  <img src="https://user-images.githubusercontent.com/13703050/155838535-741b3ac8-1e6e-48d2-936c-036eec90bb3b.JPG" width="250"/>
+  <img src="https://user-images.githubusercontent.com/13703050/155838542-d63fefb9-7f1a-4e46-a47c-745cbff62c36.JPG" width="250"/>
+</div>
+
+- 微信群
+<div>
+   <img src="https://user-images.githubusercontent.com/13703050/159154826-834f55e3-c886-4b37-812f-5ae0ce249f57.JPG" width="250"/>
+</div>
 
