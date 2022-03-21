@@ -11,7 +11,7 @@
 - 安装npm包 命令: `npm install`
 - 修改vue.config.js， 代理域名 `target` 值改为自己本地请求的域名 
 - 修改.evn.development(改完后改文件请不要提交)， `VUE_APP_HOST` 值改为自己本地请求的域名
-- 开启npm服务 命令: `npm run serve`
+- 开启npm服务 命令: `npm run serve`
 ### 2.1 配置
 > .env 和 .env.development 文件里的配置想说明
 
