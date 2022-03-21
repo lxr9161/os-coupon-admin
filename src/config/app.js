@@ -1,9 +1,10 @@
 // 请求接口host
 let host = process.env.VUE_APP_HOST
 
+// 七牛空间地址
+export const qiniuHost = ''
 
-export const qiniuHost = 'http://statics.nulizhe.com/'
-
+// 七牛上传地址
 export const qiniuUploadHost = 'https://upload.qiniup.com'
 
 export { host }
